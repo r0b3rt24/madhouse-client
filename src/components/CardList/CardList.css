@@ -1,0 +1,9 @@
+.CardList {
+    display: flex;
+    overflow: scroll;
+    min-width: 300;
+}
+
+HouseCard {
+    padding: 20px;
+}

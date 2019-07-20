@@ -1,0 +1,24 @@
+.house-card-media {
+    height: 200px
+}
+
+.house-card {
+    max-width: 345;
+    padding-bottom: 10px;
+}
+
+.house-card-text {
+    max-width: 300
+}
+
+.text-left {
+    float: left
+}
+
+.text-right {
+    float: right
+}
+
+.unit {
+    float: right
+}
