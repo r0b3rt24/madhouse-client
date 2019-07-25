@@ -24,7 +24,8 @@ export default function App() {
   return (
     <Container maxWidth="sm">
       <Box my={4}>
-        <ApartmentPostForm></ApartmentPostForm>
+        {/* <ApartmentPostForm></ApartmentPostForm> */}
+        <CardList></CardList>
       </Box>
     </Container>
   );
